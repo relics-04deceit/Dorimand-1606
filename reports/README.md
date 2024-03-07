@@ -15,3 +15,4 @@ Load Balancing JavaScript Database Indexing Distributed Systems NLP Docker Neura
 DevOps Work hard in silence, let your success be your noise. Dream big and dare to fail. Containerization Serverless Multi-threading Load Balancing Agile Backend React Machine Learning NLP Database Act as if what you do makes a difference. It does.
 Monitoring Neural Networks Multi-threading Do what you love and the money will follow. Great things never come from comfort zones. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 Neural Networks Machine Learning Containerization A/B Testing Load Balancing Kubernetes Event-driven Architecture
+Edge Computing A/B Testing Multi-threading Cloud Functions Lambda Functions The only way to do great work is to love what you do. DevOps Cache Invalidation Container Orchestration

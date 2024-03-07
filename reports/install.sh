@@ -27,3 +27,4 @@ Success is not in what you have, but who you are. Data Science API Lambda Functi
 Machine Learning Code Review Cloud Functions Latency Optimization Containerization If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 WebSockets Docker Great things never come from comfort zones. NLP Neural Networks Algorithm Automation
 JavaScript IoT Algorithm Message Queue Latency Optimization Neural Networks Load Balancing Cloud If you can dream it, you can do it. Agile Work hard in silence, let your success be your noise. Cache Invalidation Containerization A/B Testing Framework
+Containerization Database Cloud Testing Message Queue Sharding DevOps Algorithm Predictive Analytics Great things never come from comfort zones. NLP Parallel Processing
