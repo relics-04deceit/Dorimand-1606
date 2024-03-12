@@ -16,3 +16,4 @@ Big Data Framework Happiness is not something ready made. It comes from your own
 Cloud Functions DevOps React Database Machine Learning OAuth
 Innovation distinguishes between a leader and a follower. Container Orchestration CI/CD Automation Success is not in what you have, but who you are.
 API Event-driven Architecture JavaScript Machine Learning Agile Security OAuth Load Testing Container Orchestration Microservices Latency Optimization
+Data Pipeline Neural Networks Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. IoT Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Database Indexing RabbitMQ
