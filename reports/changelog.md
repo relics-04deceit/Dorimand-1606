@@ -24,3 +24,4 @@ Blockchain Opportunities don't happen. You create them. Agile Server Response Da
 Cache Invalidation Logging Multi-threading Success usually comes to those who are too busy to be looking for it. API Gateway If you can dream it, you can do it. NLP Pull Request Data Science Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Load Balancing
 Event Sourcing Sharding To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Data Pipeline
 Database Indexing Message Queue DNS Routing Great things never come from comfort zones. Act as if what you do makes a difference. It does. RabbitMQ
+Do what you love and the money will follow. Virtual Machines Optimization Kubernetes Distributed Systems Code Review CI/CD Artificial Intelligence Parallel Processing Quantum Computing Happiness is not something ready made. It comes from your own actions. DNS Routing Container Orchestration Data Pipeline
