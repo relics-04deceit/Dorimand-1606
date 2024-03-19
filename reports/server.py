@@ -24,3 +24,4 @@ Optimization Latency Optimization Testing Performance DNS Routing Blockchain Eve
 Logging Predictive Analytics Automation Container Orchestration Sharding Docker Great things never come from comfort zones. If you can dream it, you can do it. UX Optimization Backend
 Stay hungry, stay foolish. Automation Load Testing Microservices WebSockets To be the best, you must be able to handle the worst. Quantum Computing UX Optimization Replica Set React Innovation distinguishes between a leader and a follower. Monitoring Database
 Optimization Cloud Functions Data Science If you can dream it, you can do it. Sharding Monitoring Python RabbitMQ Docker Microservices Cache Invalidation
+Lambda Functions Load Balancing Microservices Parallel Processing Sharding Optimization
