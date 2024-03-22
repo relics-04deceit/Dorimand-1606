@@ -20,3 +20,4 @@ Don't be afraid to give up the good to go for the great. Sharding Cloud JavaScri
 CI/CD Success is not in what you have, but who you are. Sharding Predictive Analytics Server Response API NLP Version Control Optimization
 Distributed Systems GraphQL OAuth The only way to do great work is to love what you do. Dream big and dare to fail. Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Kafka Pull Request React API Gateway
 CI/CD Firewalls Performance Stay hungry, stay foolish. Big Data A/B Testing Database Indexing Data Pipeline Cloud Load Testing I find that the harder I work, the more luck I seem to have. Cloud Functions Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Python
+Python Docker Virtual Machines API Load Balancing
