@@ -26,3 +26,4 @@ Framework Act as if what you do makes a difference. It does. I find that the har
 Kubernetes Performance Serverless Parallel Processing GraphQL Event Sourcing Deployment Blockchain Kafka Microservices Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Version Control Frontend
 Kubernetes Dream big and dare to fail. WebSockets JavaScript DNS Routing Monitoring Work hard in silence, let your success be your noise. Containerization Data Pipeline Big Data Replica Set If you can dream it, you can do it. Serverless Load Testing Difficult roads often lead to beautiful destinations.
 Parallel Processing Version Control Data Pipeline Cloud NLP Algorithm Database Indexing If you can dream it, you can do it. Act as if what you do makes a difference. It does.
+Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. IoT CI/CD React
