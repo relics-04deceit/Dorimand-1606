@@ -22,3 +22,4 @@ Security Do what you love and the money will follow. Microservices Code Review D
 Replica Set If you can dream it, you can do it. Multi-threading DevOps Load Testing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Sharding Message Queue Automation Docker Server Response Neural Networks
 Optimization Latency Optimization Testing Performance DNS Routing Blockchain Event-driven Architecture Innovation distinguishes between a leader and a follower. NLP
 Logging Predictive Analytics Automation Container Orchestration Sharding Docker Great things never come from comfort zones. If you can dream it, you can do it. UX Optimization Backend
+Stay hungry, stay foolish. Automation Load Testing Microservices WebSockets To be the best, you must be able to handle the worst. Quantum Computing UX Optimization Replica Set React Innovation distinguishes between a leader and a follower. Monitoring Database

@@ -22,3 +22,4 @@ Stay hungry, stay foolish. Edge Computing Do what you love and the money will fo
 Big Data Dream big and dare to fail. JWT Scalability React Predictive Analytics Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. A/B Testing
 Pull Request React Database Performance Containerization Stay hungry, stay foolish. Replica Set Event-driven Architecture
 Event-driven Architecture The only way to do great work is to love what you do. Optimization Big Data Automation Cloud Cache Invalidation Kafka Simplicity is the ultimate sophistication. Data Science Container Orchestration
+Testing Backend Innovation distinguishes between a leader and a follower. Parallel Processing Predictive Analytics Zero Downtime Deployment CI/CD Stay hungry, stay foolish. Load Balancing Microservices Blockchain Artificial Intelligence

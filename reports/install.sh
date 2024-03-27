@@ -26,3 +26,4 @@ Container Orchestration Load Balancing Do what you love and the money will follo
 Success is not in what you have, but who you are. Data Science API Lambda Functions CI/CD Success usually comes to those who are too busy to be looking for it. API Gateway Edge Computing Stay hungry, stay foolish. Database Indexing Opportunities don't happen. You create them. Algorithm
 Machine Learning Code Review Cloud Functions Latency Optimization Containerization If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 WebSockets Docker Great things never come from comfort zones. NLP Neural Networks Algorithm Automation
+JavaScript IoT Algorithm Message Queue Latency Optimization Neural Networks Load Balancing Cloud If you can dream it, you can do it. Agile Work hard in silence, let your success be your noise. Cache Invalidation Containerization A/B Testing Framework
