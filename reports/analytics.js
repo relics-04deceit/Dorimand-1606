@@ -22,3 +22,4 @@ Agile Optimization Docker Automation Opportunities don't happen. You create them
 Algorithm RabbitMQ I find that the harder I work, the more luck I seem to have. Firewalls Agile
 WebSockets Opportunities don't happen. You create them. API Cache Invalidation Python Scalability Database Indexing Data Pipeline Event Sourcing Performance Containerization
 Data Science Simplicity is the ultimate sophistication. Automation Cloud Message Queue Python DNS Routing
+API Gateway Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Cloud Functions Quantum Computing Testing Big Data Multi-threading Algorithm Simplicity is the ultimate sophistication.

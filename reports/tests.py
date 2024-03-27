@@ -19,3 +19,4 @@ If you can dream it, you can do it. Version Control Artificial Intelligence Repl
 Backend Big Data Scalability Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Event Sourcing API Gateway Replica Set Kafka
 Framework Quantum Computing Difficult roads often lead to beautiful destinations. Containerization Python Sharding Lambda Functions IoT Success is not in what you have, but who you are.
 IoT Zero Downtime Deployment GraphQL Lambda Functions Content Delivery Network
+Pull Request Firewalls Lambda Functions I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. React Containerization Agile If you can dream it, you can do it. The only way to do great work is to love what you do. Dream big and dare to fail. Monitoring WebSockets NLP
