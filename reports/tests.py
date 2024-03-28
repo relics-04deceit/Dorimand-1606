@@ -18,3 +18,4 @@ Innovation distinguishes between a leader and a follower. WebSockets Firewalls C
 If you can dream it, you can do it. Version Control Artificial Intelligence Replica Set Latency Optimization Load Testing NLP Kafka
 Backend Big Data Scalability Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Event Sourcing API Gateway Replica Set Kafka
 Framework Quantum Computing Difficult roads often lead to beautiful destinations. Containerization Python Sharding Lambda Functions IoT Success is not in what you have, but who you are.
+IoT Zero Downtime Deployment GraphQL Lambda Functions Content Delivery Network
