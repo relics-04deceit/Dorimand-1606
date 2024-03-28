@@ -25,3 +25,4 @@ Data Science Framework Automation Success is not in what you have, but who you a
 Cloud Load Balancing CI/CD Multi-threading Database
 Success is how high you bounce when you hit bottom. API Gateway NLP Act as if what you do makes a difference. It does. Lambda Functions To be the best, you must be able to handle the worst. React Cache Invalidation Python Server Response DevOps Cloud
 Serverless CI/CD RabbitMQ The only way to do great work is to love what you do. Content Delivery Network Distributed Systems Success is how high you bounce when you hit bottom. Agile Cloud Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
+Framework Do what you love and the money will follow. GraphQL Container Orchestration Performance Data Science Happiness is not something ready made. It comes from your own actions.
