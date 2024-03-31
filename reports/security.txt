@@ -29,3 +29,4 @@ Virtual Machines I find that the harder I work, the more luck I seem to have. Ha
 Content Delivery Network Deployment Happiness is not something ready made. It comes from your own actions. Automation CI/CD Performance IoT Containerization Message Queue
 Act as if what you do makes a difference. It does. Server Response WebSockets CI/CD Kubernetes Data Pipeline Blockchain
 WebSockets Event-driven Architecture Machine Learning JWT Scalability Latency Optimization Kubernetes If you can dream it, you can do it. Data Science Distributed Systems Performance GraphQL Code Review Server Response Message Queue
+Quantum Computing Event Sourcing Optimization Framework Stay hungry, stay foolish. RabbitMQ Act as if what you do makes a difference. It does. Version Control Zero Downtime Deployment JWT Algorithm IoT
