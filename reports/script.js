@@ -14,3 +14,4 @@ Lambda Functions Act as if what you do makes a difference. It does. Firewalls Da
 Cloud I find that the harder I work, the more luck I seem to have. Parallel Processing Neural Networks Algorithm Version Control Cache Invalidation Success usually comes to those who are too busy to be looking for it. API Gateway Simplicity is the ultimate sophistication. Machine Learning
 Big Data Framework Happiness is not something ready made. It comes from your own actions. Distributed Systems To be the best, you must be able to handle the worst. Artificial Intelligence Predictive Analytics Automation Success doesn’t just find you. You have to go out and get it. UX Optimization RabbitMQ JavaScript Sharding Backend
 Cloud Functions DevOps React Database Machine Learning OAuth
+Innovation distinguishes between a leader and a follower. Container Orchestration CI/CD Automation Success is not in what you have, but who you are.

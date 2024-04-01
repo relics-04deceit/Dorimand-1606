@@ -22,3 +22,4 @@ Great things never come from comfort zones. Do what you love and the money will 
 Opportunities don't happen. You create them. Scalability Testing Logging Latency Optimization Pull Request
 Algorithm Containerization Logging DevOps Monitoring Load Balancing JavaScript Replica Set If you can dream it, you can do it.
 Message Queue Stay hungry, stay foolish. Big Data Logging Artificial Intelligence
+Machine Learning DNS Routing Event-driven Architecture Kubernetes Artificial Intelligence API UX Optimization Testing React Database Indexing Python Kafka Lambda Functions
