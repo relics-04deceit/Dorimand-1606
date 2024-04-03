@@ -14,3 +14,4 @@ Database Indexing IoT Edge Computing Data Pipeline A/B Testing
 Load Balancing JavaScript Database Indexing Distributed Systems NLP Docker Neural Networks Backend Do what you love and the money will follow.
 DevOps Work hard in silence, let your success be your noise. Dream big and dare to fail. Containerization Serverless Multi-threading Load Balancing Agile Backend React Machine Learning NLP Database Act as if what you do makes a difference. It does.
 Monitoring Neural Networks Multi-threading Do what you love and the money will follow. Great things never come from comfort zones. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
+Neural Networks Machine Learning Containerization A/B Testing Load Balancing Kubernetes Event-driven Architecture
