@@ -21,3 +21,4 @@ CI/CD Do what you love and the money will follow. Cloud Functions Automation Sca
 Stay hungry, stay foolish. Edge Computing Do what you love and the money will follow. Security Testing Containerization API Gateway Sharding IoT Code Review Success usually comes to those who are too busy to be looking for it. DevOps
 Big Data Dream big and dare to fail. JWT Scalability React Predictive Analytics Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. A/B Testing
 Pull Request React Database Performance Containerization Stay hungry, stay foolish. Replica Set Event-driven Architecture
+Event-driven Architecture The only way to do great work is to love what you do. Optimization Big Data Automation Cloud Cache Invalidation Kafka Simplicity is the ultimate sophistication. Data Science Container Orchestration
