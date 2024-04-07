@@ -21,3 +21,4 @@ Framework Kafka A/B Testing Container Orchestration Machine Learning Simplicity 
 Agile Optimization Docker Automation Opportunities don't happen. You create them. DNS Routing Act as if what you do makes a difference. It does. Event Sourcing Framework Security Quantum Computing OAuth Multi-threading
 Algorithm RabbitMQ I find that the harder I work, the more luck I seem to have. Firewalls Agile
 WebSockets Opportunities don't happen. You create them. API Cache Invalidation Python Scalability Database Indexing Data Pipeline Event Sourcing Performance Containerization
+Data Science Simplicity is the ultimate sophistication. Automation Cloud Message Queue Python DNS Routing
