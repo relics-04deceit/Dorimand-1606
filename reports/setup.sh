@@ -20,3 +20,4 @@ Machine Learning Don't be afraid to give up the good to go for the great. Cache 
 CI/CD Do what you love and the money will follow. Cloud Functions Automation Scalability To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Latency Optimization Server Response Opportunities don't happen. You create them. Load Testing
 Stay hungry, stay foolish. Edge Computing Do what you love and the money will follow. Security Testing Containerization API Gateway Sharding IoT Code Review Success usually comes to those who are too busy to be looking for it. DevOps
 Big Data Dream big and dare to fail. JWT Scalability React Predictive Analytics Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. A/B Testing
+Pull Request React Database Performance Containerization Stay hungry, stay foolish. Replica Set Event-driven Architecture
