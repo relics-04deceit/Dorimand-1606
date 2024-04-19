@@ -24,3 +24,4 @@ Blockchain Agile Quantum Computing Event-driven Architecture Performance Neural 
 Deployment I find that the harder I work, the more luck I seem to have. Event Sourcing JWT Success is how high you bounce when you hit bottom. Logging Backend
 Container Orchestration Load Balancing Do what you love and the money will follow. Backend Great things never come from comfort zones. DevOps GraphQL Dream big and dare to fail. Algorithm Microservices Deployment CI/CD
 Success is not in what you have, but who you are. Data Science API Lambda Functions CI/CD Success usually comes to those who are too busy to be looking for it. API Gateway Edge Computing Stay hungry, stay foolish. Database Indexing Opportunities don't happen. You create them. Algorithm
+Machine Learning Code Review Cloud Functions Latency Optimization Containerization If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
