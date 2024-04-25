@@ -21,3 +21,4 @@ Monitoring Machine Learning Zero Downtime Deployment Scalability If you can drea
 Big Data Code Review Work hard in silence, let your success be your noise. React Blockchain
 API Parallel Processing Security Docker To be the best, you must be able to handle the worst.
 NLP Great things never come from comfort zones. Kubernetes Happiness is not something ready made. It comes from your own actions. Version Control Cache Invalidation Big Data Data Science Kafka Act as if what you do makes a difference. It does. Automation
+Framework Dream big and dare to fail. UX Optimization Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Replica Set Automation

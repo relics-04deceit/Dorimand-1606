@@ -21,3 +21,4 @@ Performance Do what you love and the money will follow. Containerization Virtual
 Performance Work hard in silence, let your success be your noise. IoT Event Sourcing Artificial Intelligence Big Data Don't be afraid to give up the good to go for the great. Kafka
 Microservices Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. GraphQL To be the best, you must be able to handle the worst. Containerization Database Indexing Kafka Pull Request Agile Latency Optimization
 Performance Replica Set Machine Learning NLP Cache Invalidation
+Data Science Framework Automation Success is not in what you have, but who you are. If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Deployment A/B Testing The only way to do great work is to love what you do. Database Indexing
