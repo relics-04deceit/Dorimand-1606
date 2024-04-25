@@ -20,3 +20,4 @@ Python Security Great things never come from comfort zones. Load Testing Cloud F
 DevOps UX Optimization DNS Routing Zero Downtime Deployment JavaScript Firewalls Code Review Docker If you can dream it, you can do it. React Event-driven Architecture Optimization
 Great things never come from comfort zones. Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Scalability Server Response Framework Deployment DevOps DNS Routing OAuth Success is how high you bounce when you hit bottom. Sharding The only way to do great work is to love what you do.
 Opportunities don't happen. You create them. Scalability Testing Logging Latency Optimization Pull Request
+Algorithm Containerization Logging DevOps Monitoring Load Balancing JavaScript Replica Set If you can dream it, you can do it.
