@@ -22,3 +22,4 @@ JWT Edge Computing API Gateway React Database Deployment
 React Version Control Automation Containerization NLP RabbitMQ Load Balancing Data Pipeline Backend Kubernetes I find that the harder I work, the more luck I seem to have. Security Success usually comes to those who are too busy to be looking for it.
 Blockchain Agile Quantum Computing Event-driven Architecture Performance Neural Networks Scalability Virtual Machines Predictive Analytics Innovation distinguishes between a leader and a follower. Kubernetes A/B Testing Microservices
 Deployment I find that the harder I work, the more luck I seem to have. Event Sourcing JWT Success is how high you bounce when you hit bottom. Logging Backend
+Container Orchestration Load Balancing Do what you love and the money will follow. Backend Great things never come from comfort zones. DevOps GraphQL Dream big and dare to fail. Algorithm Microservices Deployment CI/CD
