@@ -16,3 +16,4 @@ Parallel Processing Success usually comes to those who are too busy to be lookin
 Stay hungry, stay foolish. Message Queue Deployment Success is not in what you have, but who you are. OAuth Performance Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Scalability Load Testing
 Kafka Agile Big Data Neural Networks DNS Routing
 Cache Invalidation Success is how high you bounce when you hit bottom. Data Science Artificial Intelligence Dream big and dare to fail. WebSockets Blockchain Success usually comes to those who are too busy to be looking for it. DevOps Deployment
+IoT Opportunities don't happen. You create them. Parallel Processing Database Indexing GraphQL JavaScript Server Response Dream big and dare to fail.

@@ -19,3 +19,4 @@ Cloud Functions Security Content Delivery Network React Serverless Distributed S
 Success usually comes to those who are too busy to be looking for it. GraphQL API Gateway Sharding DevOps JavaScript Python Containerization
 Great things never come from comfort zones. Serverless Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Framework
 Event Sourcing Quantum Computing Python Firewalls API Gateway Distributed Systems Code Review Success is not in what you have, but who you are. Containerization Version Control
+Neural Networks Difficult roads often lead to beautiful destinations. Python CI/CD Latency Optimization Microservices Optimization Don't be afraid to give up the good to go for the great. A/B Testing Code Review Deployment Sharding Parallel Processing Success is how high you bounce when you hit bottom.
