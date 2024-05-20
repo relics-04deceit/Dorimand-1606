@@ -14,3 +14,4 @@ Optimization Neural Networks CI/CD API Gateway Replica Set Automation Do what yo
 Innovation distinguishes between a leader and a follower. Algorithm Do what you love and the money will follow. Optimization RabbitMQ Scalability Artificial Intelligence
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Blockchain React WebSockets Deployment DevOps Neural Networks Work hard in silence, let your success be your noise. Pull Request
 Stay hungry, stay foolish. Message Queue Deployment Success is not in what you have, but who you are. OAuth Performance Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Scalability Load Testing
+Kafka Agile Big Data Neural Networks DNS Routing
