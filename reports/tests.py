@@ -16,3 +16,4 @@ Deployment The only way to do great work is to love what you do. JavaScript Lamb
 Zero Downtime Deployment Latency Optimization Success is how high you bounce when you hit bottom. Distributed Systems Database Monitoring
 Innovation distinguishes between a leader and a follower. WebSockets Firewalls Content Delivery Network Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. CI/CD Event-driven Architecture Difficult roads often lead to beautiful destinations. Cache Invalidation Parallel Processing Microservices Edge Computing Success is not in what you have, but who you are.
 If you can dream it, you can do it. Version Control Artificial Intelligence Replica Set Latency Optimization Load Testing NLP Kafka
+Backend Big Data Scalability Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Event Sourcing API Gateway Replica Set Kafka
