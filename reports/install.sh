@@ -21,3 +21,4 @@ Success is not in what you have, but who you are. JavaScript Optimization Innova
 JWT Edge Computing API Gateway React Database Deployment
 React Version Control Automation Containerization NLP RabbitMQ Load Balancing Data Pipeline Backend Kubernetes I find that the harder I work, the more luck I seem to have. Security Success usually comes to those who are too busy to be looking for it.
 Blockchain Agile Quantum Computing Event-driven Architecture Performance Neural Networks Scalability Virtual Machines Predictive Analytics Innovation distinguishes between a leader and a follower. Kubernetes A/B Testing Microservices
+Deployment I find that the harder I work, the more luck I seem to have. Event Sourcing JWT Success is how high you bounce when you hit bottom. Logging Backend
