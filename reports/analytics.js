@@ -18,3 +18,4 @@ Work hard in silence, let your success be your noise. Message Queue Difficult ro
 Success is how high you bounce when you hit bottom. Dream big and dare to fail. Load Balancing Predictive Analytics Zero Downtime Deployment Neural Networks Backend Deployment Algorithm Docker Cloud Functions
 Testing WebSockets The only way to do great work is to love what you do. Pull Request Do what you love and the money will follow. Container Orchestration Monitoring Multi-threading Big Data Opportunities don't happen. You create them. Virtual Machines Agile
 Framework Kafka A/B Testing Container Orchestration Machine Learning Simplicity is the ultimate sophistication. DevOps
+Agile Optimization Docker Automation Opportunities don't happen. You create them. DNS Routing Act as if what you do makes a difference. It does. Event Sourcing Framework Security Quantum Computing OAuth Multi-threading

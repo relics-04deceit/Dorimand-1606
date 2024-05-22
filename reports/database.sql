@@ -30,3 +30,4 @@ Happiness is not something ready made. It comes from your own actions. Multi-thr
 Neural Networks Firewalls Blockchain IoT Artificial Intelligence API Serverless Cloud Simplicity is the ultimate sophistication. API Gateway Testing DevOps Lambda Functions
 Python Event-driven Architecture Act as if what you do makes a difference. It does. Serverless WebSockets RabbitMQ Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Containerization Agile Edge Computing
 Success is how high you bounce when you hit bottom. Message Queue Cloud Functions Dream big and dare to fail. WebSockets API Simplicity is the ultimate sophistication. Edge Computing Scalability GraphQL
+DNS Routing Python Edge Computing Scalability Server Response
