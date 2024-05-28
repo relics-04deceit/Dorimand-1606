@@ -15,3 +15,4 @@ DevOps Testing Dream big and dare to fail. RabbitMQ To be the best, you must be 
 Artificial Intelligence Logging Scalability Machine Learning IoT Framework Kubernetes
 Performance A/B Testing I find that the harder I work, the more luck I seem to have. Database React Firewalls DNS Routing Success is how high you bounce when you hit bottom. Load Balancing IoT
 Latency Optimization JWT Data Science Logging Cloud Event-driven Architecture Predictive Analytics API OAuth Success is how high you bounce when you hit bottom. Machine Learning A/B Testing Replica Set
+Success usually comes to those who are too busy to be looking for it. Multi-threading DevOps Agile API Gateway Stay hungry, stay foolish. Virtual Machines Version Control Great things never come from comfort zones. Scalability The only way to do great work is to love what you do. Server Response Predictive Analytics Framework Database
