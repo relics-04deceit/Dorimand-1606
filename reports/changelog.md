@@ -18,3 +18,4 @@ Success is how high you bounce when you hit bottom. Don't be afraid to give up t
 Cloud Functions Security Content Delivery Network React Serverless Distributed Systems A/B Testing API Artificial Intelligence Data Pipeline IoT Success is how high you bounce when you hit bottom. Database Indexing Containerization
 Success usually comes to those who are too busy to be looking for it. GraphQL API Gateway Sharding DevOps JavaScript Python Containerization
 Great things never come from comfort zones. Serverless Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Framework
+Event Sourcing Quantum Computing Python Firewalls API Gateway Distributed Systems Code Review Success is not in what you have, but who you are. Containerization Version Control
