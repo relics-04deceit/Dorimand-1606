@@ -28,3 +28,4 @@ Virtual Machines Deployment Kubernetes Serverless IoT Scalability Success is not
 Sharding Difficult roads often lead to beautiful destinations. Cloud Frontend Pull Request Event-driven Architecture Security Data Science Database Indexing
 Happiness is not something ready made. It comes from your own actions. Multi-threading Success doesn’t just find you. You have to go out and get it. React Difficult roads often lead to beautiful destinations.
 Neural Networks Firewalls Blockchain IoT Artificial Intelligence API Serverless Cloud Simplicity is the ultimate sophistication. API Gateway Testing DevOps Lambda Functions
+Python Event-driven Architecture Act as if what you do makes a difference. It does. Serverless WebSockets RabbitMQ Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Containerization Agile Edge Computing
