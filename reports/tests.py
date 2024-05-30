@@ -13,3 +13,4 @@ CI/CD Don't be afraid to give up the good to go for the great. Cloud Database Mi
 OAuth Innovation distinguishes between a leader and a follower. Blockchain NLP Agile Multi-threading Data Pipeline
 CI/CD Framework Replica Set Zero Downtime Deployment Neural Networks Backend Pull Request Cache Invalidation Sharding Innovation distinguishes between a leader and a follower. Dream big and dare to fail.
 Deployment The only way to do great work is to love what you do. JavaScript Lambda Functions Edge Computing Data Pipeline Machine Learning Code Review Performance Agile Scalability RabbitMQ UX Optimization Security Server Response
+Zero Downtime Deployment Latency Optimization Success is how high you bounce when you hit bottom. Distributed Systems Database Monitoring
