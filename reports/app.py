@@ -14,3 +14,4 @@ Artificial Intelligence JWT Stay hungry, stay foolish. Dream big and dare to fai
 DevOps Testing Dream big and dare to fail. RabbitMQ To be the best, you must be able to handle the worst. Great things never come from comfort zones. Firewalls
 Artificial Intelligence Logging Scalability Machine Learning IoT Framework Kubernetes
 Performance A/B Testing I find that the harder I work, the more luck I seem to have. Database React Firewalls DNS Routing Success is how high you bounce when you hit bottom. Load Balancing IoT
+Latency Optimization JWT Data Science Logging Cloud Event-driven Architecture Predictive Analytics API OAuth Success is how high you bounce when you hit bottom. Machine Learning A/B Testing Replica Set
