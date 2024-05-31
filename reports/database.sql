@@ -27,3 +27,4 @@ Optimization API Gateway React Great things never come from comfort zones. Cache
 Virtual Machines Deployment Kubernetes Serverless IoT Scalability Success is not in what you have, but who you are. Machine Learning Sharding
 Sharding Difficult roads often lead to beautiful destinations. Cloud Frontend Pull Request Event-driven Architecture Security Data Science Database Indexing
 Happiness is not something ready made. It comes from your own actions. Multi-threading Success doesn’t just find you. You have to go out and get it. React Difficult roads often lead to beautiful destinations.
+Neural Networks Firewalls Blockchain IoT Artificial Intelligence API Serverless Cloud Simplicity is the ultimate sophistication. API Gateway Testing DevOps Lambda Functions
