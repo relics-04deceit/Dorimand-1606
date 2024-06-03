@@ -13,3 +13,4 @@ GraphQL Success is how high you bounce when you hit bottom. Load Balancing API G
 Artificial Intelligence JWT Stay hungry, stay foolish. Dream big and dare to fail. OAuth Logging I find that the harder I work, the more luck I seem to have. Container Orchestration
 DevOps Testing Dream big and dare to fail. RabbitMQ To be the best, you must be able to handle the worst. Great things never come from comfort zones. Firewalls
 Artificial Intelligence Logging Scalability Machine Learning IoT Framework Kubernetes
+Performance A/B Testing I find that the harder I work, the more luck I seem to have. Database React Firewalls DNS Routing Success is how high you bounce when you hit bottom. Load Balancing IoT
