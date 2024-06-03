@@ -11,3 +11,4 @@ Agile To be the best, you must be able to handle the worst. Act as if what you d
 Framework API A/B Testing Cloud Deployment CI/CD Container Orchestration Data Pipeline
 Parallel Processing Big Data If you can dream it, you can do it. IoT OAuth Zero Downtime Deployment To be the best, you must be able to handle the worst. Firewalls Microservices Automation Success is how high you bounce when you hit bottom. Pull Request API I find that the harder I work, the more luck I seem to have. Predictive Analytics
 Lambda Functions Act as if what you do makes a difference. It does. Firewalls Database Indexing Logging To be the best, you must be able to handle the worst.
+Cloud I find that the harder I work, the more luck I seem to have. Parallel Processing Neural Networks Algorithm Version Control Cache Invalidation Success usually comes to those who are too busy to be looking for it. API Gateway Simplicity is the ultimate sophistication. Machine Learning
