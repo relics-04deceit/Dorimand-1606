@@ -11,3 +11,4 @@ Backend Distributed Systems Cloud Pull Request Parallel Processing NLP Kubernete
 Big Data The only way to do great work is to love what you do. Replica Set Success usually comes to those who are too busy to be looking for it. Sharding Simplicity is the ultimate sophistication. Database Success is how high you bounce when you hit bottom. Kafka Deployment
 Machine Learning Kafka Database Containerization Work hard in silence, let your success be your noise. Predictive Analytics Microservices Kubernetes JWT Stay hungry, stay foolish. Sharding Container Orchestration Data Pipeline
 Optimization Neural Networks CI/CD API Gateway Replica Set Automation Do what you love and the money will follow. JavaScript Cloud Functions
+Innovation distinguishes between a leader and a follower. Algorithm Do what you love and the money will follow. Optimization RabbitMQ Scalability Artificial Intelligence
