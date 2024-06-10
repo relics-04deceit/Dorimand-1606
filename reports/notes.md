@@ -18,3 +18,4 @@ Version Control Neural Networks To be the best, you must be able to handle the w
 Virtual Machines Multi-threading Success doesn’t just find you. You have to go out and get it. Sharding Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Load Testing Framework Quantum Computing
 Backend To be the best, you must be able to handle the worst. Algorithm Artificial Intelligence Kafka Firewalls
 Monitoring Machine Learning Zero Downtime Deployment Scalability If you can dream it, you can do it. Event Sourcing Big Data The only way to do great work is to love what you do. Server Response
+Big Data Code Review Work hard in silence, let your success be your noise. React Blockchain
