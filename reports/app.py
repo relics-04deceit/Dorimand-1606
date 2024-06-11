@@ -12,3 +12,4 @@ Artificial Intelligence Backend Sharding Data Pipeline Automation Zero Downtime 
 GraphQL Success is how high you bounce when you hit bottom. Load Balancing API Gateway Automation Predictive Analytics WebSockets Code Review Containerization Optimization Simplicity is the ultimate sophistication. Latency Optimization Innovation distinguishes between a leader and a follower. Firewalls
 Artificial Intelligence JWT Stay hungry, stay foolish. Dream big and dare to fail. OAuth Logging I find that the harder I work, the more luck I seem to have. Container Orchestration
 DevOps Testing Dream big and dare to fail. RabbitMQ To be the best, you must be able to handle the worst. Great things never come from comfort zones. Firewalls
+Artificial Intelligence Logging Scalability Machine Learning IoT Framework Kubernetes
