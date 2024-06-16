@@ -25,3 +25,4 @@ Success usually comes to those who are too busy to be looking for it. Simplicity
 Event Sourcing Message Queue Code Review Load Testing API Gateway React The only way to do great work is to love what you do. Event-driven Architecture Scalability Innovation distinguishes between a leader and a follower. A/B Testing Firewalls Parallel Processing Act as if what you do makes a difference. It does.
 Optimization API Gateway React Great things never come from comfort zones. Cache Invalidation Zero Downtime Deployment If you can dream it, you can do it. Firewalls Opportunities don't happen. You create them.
 Virtual Machines Deployment Kubernetes Serverless IoT Scalability Success is not in what you have, but who you are. Machine Learning Sharding
+Sharding Difficult roads often lead to beautiful destinations. Cloud Frontend Pull Request Event-driven Architecture Security Data Science Database Indexing
