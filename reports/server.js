@@ -17,3 +17,4 @@ Monitoring Innovation distinguishes between a leader and a follower. Success is 
 Security Success is how high you bounce when you hit bottom. Agile Great things never come from comfort zones. UX Optimization NLP Scalability Dream big and dare to fail. Containerization Act as if what you do makes a difference. It does. Event Sourcing
 Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Server Response JWT Simplicity is the ultimate sophistication. API
 Simplicity is the ultimate sophistication. OAuth Containerization CI/CD Stay hungry, stay foolish. The only way to do great work is to love what you do.
+Performance Do what you love and the money will follow. Containerization Virtual Machines OAuth CI/CD GraphQL Monitoring
