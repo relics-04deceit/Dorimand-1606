@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Quantum Computing 
 A/B Testing Kubernetes Deployment NLP Data Science
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Kafka Serverless Replica Set Multi-threading Logging Firewalls GraphQL Cloud Content Delivery Network Kubernetes Innovation distinguishes between a leader and a follower. NLP Data Science
 Cloud Functions Security Content Delivery Network React Serverless Distributed Systems A/B Testing API Artificial Intelligence Data Pipeline IoT Success is how high you bounce when you hit bottom. Database Indexing Containerization
+Success usually comes to those who are too busy to be looking for it. GraphQL API Gateway Sharding DevOps JavaScript Python Containerization

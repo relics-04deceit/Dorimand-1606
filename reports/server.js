@@ -18,3 +18,4 @@ Security Success is how high you bounce when you hit bottom. Agile Great things 
 Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Server Response JWT Simplicity is the ultimate sophistication. API
 Simplicity is the ultimate sophistication. OAuth Containerization CI/CD Stay hungry, stay foolish. The only way to do great work is to love what you do.
 Performance Do what you love and the money will follow. Containerization Virtual Machines OAuth CI/CD GraphQL Monitoring
+Performance Work hard in silence, let your success be your noise. IoT Event Sourcing Artificial Intelligence Big Data Don't be afraid to give up the good to go for the great. Kafka
