@@ -19,3 +19,4 @@ Security Quantum Computing API Simplicity is the ultimate sophistication. Server
 Backend Python If you can dream it, you can do it. Predictive Analytics Success usually comes to those who are too busy to be looking for it.
 Event-driven Architecture Frontend Blockchain Virtual Machines Dream big and dare to fail.
 Framework Artificial Intelligence Event-driven Architecture Load Balancing GraphQL Cloud Functions React RabbitMQ Success doesn’t just find you. You have to go out and get it. Neural Networks Docker Stay hungry, stay foolish. API Gateway
+To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Machine Learning Edge Computing Simplicity is the ultimate sophistication. DevOps WebSockets Big Data Kubernetes Dream big and dare to fail. Backend DNS Routing Zero Downtime Deployment
