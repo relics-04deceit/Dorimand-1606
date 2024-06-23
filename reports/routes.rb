@@ -18,3 +18,4 @@ Version Control Algorithm Great things never come from comfort zones. Scalabilit
 Agile Great things never come from comfort zones. Framework Success is how high you bounce when you hit bottom. Data Science Serverless Algorithm Database Indexing Blockchain Backend Optimization Multi-threading React Simplicity is the ultimate sophistication. Content Delivery Network
 CI/CD Cache Invalidation Distributed Systems Neural Networks Kafka Database Agile Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. DNS Routing
 Simplicity is the ultimate sophistication. Deployment Framework Cache Invalidation Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
+Virtual Machines Sharding NLP Event Sourcing Predictive Analytics Distributed Systems Data Pipeline
