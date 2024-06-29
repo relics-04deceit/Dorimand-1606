@@ -18,3 +18,4 @@ Latency Optimization GraphQL Pull Request React Optimization Event-driven Archit
 Security Quantum Computing API Simplicity is the ultimate sophistication. Server Response Multi-threading Serverless Replica Set Predictive Analytics I find that the harder I work, the more luck I seem to have. Docker Zero Downtime Deployment Event-driven Architecture DevOps
 Backend Python If you can dream it, you can do it. Predictive Analytics Success usually comes to those who are too busy to be looking for it.
 Event-driven Architecture Frontend Blockchain Virtual Machines Dream big and dare to fail.
+Framework Artificial Intelligence Event-driven Architecture Load Balancing GraphQL Cloud Functions React RabbitMQ Success doesn’t just find you. You have to go out and get it. Neural Networks Docker Stay hungry, stay foolish. API Gateway
