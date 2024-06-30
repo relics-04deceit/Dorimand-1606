@@ -12,3 +12,4 @@ Neural Networks Multi-threading Monitoring Happiness is not something ready made
 Kafka Containerization Act as if what you do makes a difference. It does. Backend Testing Content Delivery Network Server Response Agile
 Database Indexing IoT Edge Computing Data Pipeline A/B Testing
 Load Balancing JavaScript Database Indexing Distributed Systems NLP Docker Neural Networks Backend Do what you love and the money will follow.
+DevOps Work hard in silence, let your success be your noise. Dream big and dare to fail. Containerization Serverless Multi-threading Load Balancing Agile Backend React Machine Learning NLP Database Act as if what you do makes a difference. It does.
