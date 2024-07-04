@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Work hard in silence, l
 Success usually comes to those who are too busy to be looking for it. Security Algorithm Container Orchestration Cache Invalidation Message Queue Logging Zero Downtime Deployment Replica Set OAuth
 Work hard in silence, let your success be your noise. Message Queue Difficult roads often lead to beautiful destinations. Multi-threading Lambda Functions
 Success is how high you bounce when you hit bottom. Dream big and dare to fail. Load Balancing Predictive Analytics Zero Downtime Deployment Neural Networks Backend Deployment Algorithm Docker Cloud Functions
+Testing WebSockets The only way to do great work is to love what you do. Pull Request Do what you love and the money will follow. Container Orchestration Monitoring Multi-threading Big Data Opportunities don't happen. You create them. Virtual Machines Agile
