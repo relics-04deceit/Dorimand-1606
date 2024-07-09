@@ -15,3 +15,4 @@ Serverless Quantum Computing Database Deployment Performance Framework Parallel 
 Containerization Innovation distinguishes between a leader and a follower. Distributed Systems Blockchain React Content Delivery Network Quantum Computing Testing Machine Learning Pull Request Simplicity is the ultimate sophistication.
 OAuth IoT Artificial Intelligence Backend DevOps Latency Optimization Big Data
 Event Sourcing API Gateway Frontend Work hard in silence, let your success be your noise. Kubernetes Success doesn’t just find you. You have to go out and get it. Code Review Load Balancing Testing UX Optimization Serverless Sharding
+Simplicity is the ultimate sophistication. Performance Server Response Pull Request DevOps Lambda Functions Blockchain Logging API Gateway To be the best, you must be able to handle the worst. GraphQL React Scalability RabbitMQ Cloud
