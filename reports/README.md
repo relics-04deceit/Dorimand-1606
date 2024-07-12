@@ -11,3 +11,4 @@ Multi-threading Firewalls Docker Sharding Database UX Optimization
 Neural Networks Multi-threading Monitoring Happiness is not something ready made. It comes from your own actions. Quantum Computing I find that the harder I work, the more luck I seem to have. GraphQL Work hard in silence, let your success be your noise. CI/CD Innovation distinguishes between a leader and a follower.
 Kafka Containerization Act as if what you do makes a difference. It does. Backend Testing Content Delivery Network Server Response Agile
 Database Indexing IoT Edge Computing Data Pipeline A/B Testing
+Load Balancing JavaScript Database Indexing Distributed Systems NLP Docker Neural Networks Backend Do what you love and the money will follow.
