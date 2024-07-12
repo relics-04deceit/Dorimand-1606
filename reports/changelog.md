@@ -13,3 +13,4 @@ Data Pipeline Edge Computing Virtual Machines Predictive Analytics Database Inde
 Parallel Processing Monitoring If you can dream it, you can do it. Database Load Balancing Logging
 Data Science JavaScript Opportunities don't happen. You create them. Performance Version Control Load Testing Stay hungry, stay foolish. Do what you love and the money will follow. React Happiness is not something ready made. It comes from your own actions. Firewalls Code Review
 Success doesn’t just find you. You have to go out and get it. Quantum Computing Containerization Do what you love and the money will follow. JWT Database Indexing Latency Optimization Distributed Systems Cloud I find that the harder I work, the more luck I seem to have. Load Testing GraphQL Server Response Code Review Predictive Analytics
+A/B Testing Kubernetes Deployment NLP Data Science
