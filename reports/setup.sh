@@ -14,3 +14,4 @@ UX Optimization I find that the harder I work, the more luck I seem to have. Cac
 Work hard in silence, let your success be your noise. API Gateway Success usually comes to those who are too busy to be looking for it. Testing Parallel Processing Frontend Success doesn’t just find you. You have to go out and get it.
 Microservices Big Data Kubernetes Load Testing Message Queue IoT
 Dream big and dare to fail. Neural Networks Latency Optimization Happiness is not something ready made. It comes from your own actions. Algorithm Cloud Functions Big Data Parallel Processing Cache Invalidation Microservices Framework Replica Set DevOps Monitoring
+RabbitMQ Dream big and dare to fail. Testing Automation Backend IoT Big Data I find that the harder I work, the more luck I seem to have. Edge Computing Great things never come from comfort zones. Frontend Act as if what you do makes a difference. It does.
