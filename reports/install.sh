@@ -18,3 +18,4 @@ Edge Computing Simplicity is the ultimate sophistication. Content Delivery Netwo
 Work hard in silence, let your success be your noise. Data Pipeline Predictive Analytics Load Balancing Machine Learning Artificial Intelligence Framework Load Testing Success usually comes to those who are too busy to be looking for it. Logging Replica Set Agile DNS Routing
 Do what you love and the money will follow. Docker Framework Event-driven Architecture Load Testing To be the best, you must be able to handle the worst. Agile Opportunities don't happen. You create them. GraphQL
 Success is not in what you have, but who you are. JavaScript Optimization Innovation distinguishes between a leader and a follower. Multi-threading
+JWT Edge Computing API Gateway React Database Deployment
