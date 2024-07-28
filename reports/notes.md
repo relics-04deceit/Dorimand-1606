@@ -16,3 +16,4 @@ Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 Logging JWT Kafka Backend Server Response Simplicity is the ultimate sophistication. Code Review Don't be afraid to give up the good to go for the great. Containerization Optimization Big Data
 Version Control Neural Networks To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Kafka Edge Computing Load Testing Algorithm Python NLP Container Orchestration Framework Success is not in what you have, but who you are.
 Virtual Machines Multi-threading Success doesn’t just find you. You have to go out and get it. Sharding Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Load Testing Framework Quantum Computing
+Backend To be the best, you must be able to handle the worst. Algorithm Artificial Intelligence Kafka Firewalls
