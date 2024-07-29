@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Firewalls Quantum Computing Success is not in what yo
 Docker Containerization Innovation distinguishes between a leader and a follower. API Data Pipeline OAuth Firewalls Virtual Machines
 Optimization Container Orchestration Data Pipeline Quantum Computing Python Kubernetes Backend Event Sourcing JWT Dream big and dare to fail.
 Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Serverless Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. GraphQL Containerization Cache Invalidation
+Success usually comes to those who are too busy to be looking for it. Security Algorithm Container Orchestration Cache Invalidation Message Queue Logging Zero Downtime Deployment Replica Set OAuth
