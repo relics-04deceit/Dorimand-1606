@@ -11,3 +11,4 @@ Big Data Cloud Success doesn’t just find you. You have to go out and get it. Dep
 I find that the harder I work, the more luck I seem to have. WebSockets Work hard in silence, let your success be your noise. Neural Networks Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish.
 Data Pipeline Edge Computing Virtual Machines Predictive Analytics Database Indexing Do what you love and the money will follow. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it.
 Parallel Processing Monitoring If you can dream it, you can do it. Database Load Balancing Logging
+Data Science JavaScript Opportunities don't happen. You create them. Performance Version Control Load Testing Stay hungry, stay foolish. Do what you love and the money will follow. React Happiness is not something ready made. It comes from your own actions. Firewalls Code Review
