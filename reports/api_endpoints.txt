@@ -12,3 +12,4 @@ Artificial Intelligence Load Testing Python JavaScript Opportunities don't happe
 Load Testing CI/CD Data Science Database Version Control
 Microservices Event Sourcing Load Testing UX Optimization Server Response Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. WebSockets Python Container Orchestration
 Frontend Cloud Functions Firewalls Backend Kafka
+Pull Request Quantum Computing Scalability Event Sourcing React Deployment Load Balancing NLP GraphQL Sharding Kafka RabbitMQ
