@@ -10,3 +10,4 @@ Edge Computing Opportunities don't happen. You create them. React Don't be afrai
 Microservices NLP DevOps Automation DNS Routing Cloud Functions Performance Agile If you can dream it, you can do it. GraphQL The only way to do great work is to love what you do. Monitoring UX Optimization Version Control
 Artificial Intelligence Load Testing Python JavaScript Opportunities don't happen. You create them. CI/CD Backend Scalability Simplicity is the ultimate sophistication. API Gateway Data Pipeline RabbitMQ Frontend Firewalls
 Load Testing CI/CD Data Science Database Version Control
+Microservices Event Sourcing Load Testing UX Optimization Server Response Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. WebSockets Python Container Orchestration
