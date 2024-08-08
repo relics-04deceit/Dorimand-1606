@@ -8,3 +8,4 @@ OAuth Event-driven Architecture Data Science Zero Downtime Deployment Pull Reque
 Security Kubernetes API Gateway Backend Microservices Latency Optimization React Dream big and dare to fail. Data Pipeline Scalability To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Load Testing Multi-threading Cloud
 Database Indexing Machine Learning JavaScript Code Review UX Optimization Load Testing Cache Invalidation JWT Firewalls
 Blockchain UX Optimization Monitoring Python Serverless WebSockets Neural Networks Dream big and dare to fail. Parallel Processing Firewalls
+Artificial Intelligence Backend Sharding Data Pipeline Automation Zero Downtime Deployment Python Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Docker Serverless
