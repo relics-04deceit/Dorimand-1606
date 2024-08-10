@@ -7,3 +7,4 @@ Security JWT Version Control Dream big and dare to fail. Act as if what you do m
 OAuth Event-driven Architecture Data Science Zero Downtime Deployment Pull Request Neural Networks React Cache Invalidation
 Security Kubernetes API Gateway Backend Microservices Latency Optimization React Dream big and dare to fail. Data Pipeline Scalability To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Load Testing Multi-threading Cloud
 Database Indexing Machine Learning JavaScript Code Review UX Optimization Load Testing Cache Invalidation JWT Firewalls
+Blockchain UX Optimization Monitoring Python Serverless WebSockets Neural Networks Dream big and dare to fail. Parallel Processing Firewalls
