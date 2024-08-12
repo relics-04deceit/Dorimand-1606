@@ -11,3 +11,4 @@ A/B Testing Containerization Docker Cache Invalidation Dream big and dare to fai
 Load Testing Distributed Systems Performance Neural Networks Kubernetes Data Pipeline OAuth Zero Downtime Deployment CI/CD Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Firewalls Big Data A/B Testing Monitoring
 Stay hungry, stay foolish. Firewalls Quantum Computing Success is not in what you have, but who you are. Zero Downtime Deployment Version Control Event Sourcing Serverless Content Delivery Network
 Docker Containerization Innovation distinguishes between a leader and a follower. API Data Pipeline OAuth Firewalls Virtual Machines
+Optimization Container Orchestration Data Pipeline Quantum Computing Python Kubernetes Backend Event Sourcing JWT Dream big and dare to fail.

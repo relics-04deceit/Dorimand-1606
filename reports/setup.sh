@@ -12,3 +12,4 @@ Replica Set Simplicity is the ultimate sophistication. WebSockets Sharding Quant
 Difficult roads often lead to beautiful destinations. Event Sourcing DNS Routing Database Innovation distinguishes between a leader and a follower. Docker
 UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Serverless Kubernetes GraphQL
 Work hard in silence, let your success be your noise. API Gateway Success usually comes to those who are too busy to be looking for it. Testing Parallel Processing Frontend Success doesn’t just find you. You have to go out and get it.
+Microservices Big Data Kubernetes Load Testing Message Queue IoT
