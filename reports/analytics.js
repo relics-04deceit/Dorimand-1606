@@ -10,3 +10,4 @@ Logging API Agile Latency Optimization Opportunities don't happen. You create th
 A/B Testing Containerization Docker Cache Invalidation Dream big and dare to fail. React Load Testing Deployment
 Load Testing Distributed Systems Performance Neural Networks Kubernetes Data Pipeline OAuth Zero Downtime Deployment CI/CD Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Firewalls Big Data A/B Testing Monitoring
 Stay hungry, stay foolish. Firewalls Quantum Computing Success is not in what you have, but who you are. Zero Downtime Deployment Version Control Event Sourcing Serverless Content Delivery Network
+Docker Containerization Innovation distinguishes between a leader and a follower. API Data Pipeline OAuth Firewalls Virtual Machines
