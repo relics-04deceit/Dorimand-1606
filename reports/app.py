@@ -6,3 +6,4 @@ RabbitMQ Don't be afraid to give up the good to go for the great. Framework Lamb
 Security JWT Version Control Dream big and dare to fail. Act as if what you do makes a difference. It does. Container Orchestration Big Data Replica Set Scalability Machine Learning Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Multi-threading NLP Logging
 OAuth Event-driven Architecture Data Science Zero Downtime Deployment Pull Request Neural Networks React Cache Invalidation
 Security Kubernetes API Gateway Backend Microservices Latency Optimization React Dream big and dare to fail. Data Pipeline Scalability To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Load Testing Multi-threading Cloud
+Database Indexing Machine Learning JavaScript Code Review UX Optimization Load Testing Cache Invalidation JWT Firewalls
