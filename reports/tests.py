@@ -10,3 +10,4 @@ API Gateway Event-driven Architecture Dream big and dare to fail. JWT Agile Fron
 Virtual Machines API Gateway Big Data Event Sourcing Happiness is not something ready made. It comes from your own actions. Framework Frontend WebSockets Containerization GraphQL Code Review
 Serverless Innovation distinguishes between a leader and a follower. OAuth Data Science Code Review I find that the harder I work, the more luck I seem to have. Kubernetes CI/CD Firewalls Neural Networks Containerization Server Response Database Indexing Automation
 CI/CD Don't be afraid to give up the good to go for the great. Cloud Database Microservices Event Sourcing Backend UX Optimization NLP
+OAuth Innovation distinguishes between a leader and a follower. Blockchain NLP Agile Multi-threading Data Pipeline
