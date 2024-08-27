@@ -15,3 +15,4 @@ Don't be afraid to give up the good to go for the great. Agile Happiness is not 
 I find that the harder I work, the more luck I seem to have. Monitoring To be the best, you must be able to handle the worst. Latency Optimization API A/B Testing Multi-threading Microservices Distributed Systems
 Message Queue DevOps Load Testing WebSockets Success doesn’t just find you. You have to go out and get it. Replica Set API Gateway Performance Container Orchestration Version Control Success is how high you bounce when you hit bottom.
 Edge Computing Simplicity is the ultimate sophistication. Content Delivery Network React Server Response Cloud Functions Machine Learning
+Work hard in silence, let your success be your noise. Data Pipeline Predictive Analytics Load Balancing Machine Learning Artificial Intelligence Framework Load Testing Success usually comes to those who are too busy to be looking for it. Logging Replica Set Agile DNS Routing
