@@ -7,3 +7,4 @@ UX Optimization Load Balancing Lambda Functions Microservices If you can dream i
 Neural Networks OAuth Opportunities don't happen. You create them. Version Control A/B Testing Innovation distinguishes between a leader and a follower. Artificial Intelligence UX Optimization Performance Algorithm Code Review Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
 GraphQL Machine Learning Parallel Processing Quantum Computing JWT
 Edge Computing Opportunities don't happen. You create them. React Don't be afraid to give up the good to go for the great. Event Sourcing NLP Backend API Gateway Distributed Systems If you can dream it, you can do it. Quantum Computing Predictive Analytics
+Microservices NLP DevOps Automation DNS Routing Cloud Functions Performance Agile If you can dream it, you can do it. GraphQL The only way to do great work is to love what you do. Monitoring UX Optimization Version Control
