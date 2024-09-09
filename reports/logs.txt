@@ -6,3 +6,4 @@ A/B Testing Backend Server Response Predictive Analytics Monitoring Distributed 
 Event Sourcing Machine Learning Docker Performance Cloud Functions
 Success is how high you bounce when you hit bottom. Replica Set Testing WebSockets Firewalls Agile Python Distributed Systems Content Delivery Network Frontend
 Latency Optimization Code Review Big Data NLP Artificial Intelligence Great things never come from comfort zones.
+Frontend Latency Optimization API Deployment Event Sourcing Success doesn’t just find you. You have to go out and get it. Version Control Great things never come from comfort zones.
