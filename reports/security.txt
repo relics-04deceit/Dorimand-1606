@@ -14,3 +14,4 @@ Data Pipeline DNS Routing Security Distributed Systems Algorithm GraphQL A/B Tes
 OAuth If you can dream it, you can do it. Distributed Systems I find that the harder I work, the more luck I seem to have. JWT Sharding Microservices Database Dream big and dare to fail.
 Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Version Control Automation Multi-threading
 Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Testing Serverless Sharding DevOps Success doesn’t just find you. You have to go out and get it. Microservices Blockchain Firewalls
+Latency Optimization Deployment Pull Request Zero Downtime Deployment UX Optimization Sharding Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. OAuth Logging RabbitMQ Cloud Success is how high you bounce when you hit bottom. Version Control JavaScript
