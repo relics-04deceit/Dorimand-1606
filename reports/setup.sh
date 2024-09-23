@@ -10,3 +10,4 @@ Framework Logging A/B Testing Cache Invalidation Success is not in what you have
 WebSockets Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Content Delivery Network Lambda Functions Simplicity is the ultimate sophistication. Container Orchestration Logging DNS Routing NLP Predictive Analytics UX Optimization
 Replica Set Simplicity is the ultimate sophistication. WebSockets Sharding Quantum Computing NLP Pull Request
 Difficult roads often lead to beautiful destinations. Event Sourcing DNS Routing Database Innovation distinguishes between a leader and a follower. Docker
+UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Serverless Kubernetes GraphQL
