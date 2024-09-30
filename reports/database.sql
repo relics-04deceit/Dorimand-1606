@@ -14,3 +14,4 @@ Predictive Analytics Docker Big Data Deployment DNS Routing Server Response
 API Gateway CI/CD JWT To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Event-driven Architecture Latency Optimization UX Optimization Serverless Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Quantum Computing
 Testing Kubernetes Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Agile Replica Set Algorithm Content Delivery Network Firewalls Optimization Database Data Science If you can dream it, you can do it.
 I find that the harder I work, the more luck I seem to have. Replica Set Data Science Cache Invalidation Predictive Analytics Distributed Systems API
+Version Control Monitoring API Message Queue Load Balancing Code Review
