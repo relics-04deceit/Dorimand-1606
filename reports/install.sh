@@ -11,3 +11,4 @@ WebSockets Docker NLP The only way to do great work is to love what you do. Quan
 Cloud Functions Containerization Parallel Processing Message Queue Happiness is not something ready made. It comes from your own actions. IoT API Gateway DNS Routing
 CI/CD Automation Multi-threading Virtual Machines Success doesn’t just find you. You have to go out and get it. API Gateway Stay hungry, stay foolish. Big Data Optimization Work hard in silence, let your success be your noise.
 Lambda Functions Event Sourcing Machine Learning Message Queue API Gateway Scalability Data Pipeline
+Don't be afraid to give up the good to go for the great. Agile Happiness is not something ready made. It comes from your own actions. Sharding Data Science Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Security Performance OAuth Logging Deployment Data Pipeline Scalability Containerization
