@@ -10,3 +10,4 @@ Neural Networks Happiness is not something ready made. It comes from your own ac
 WebSockets Docker NLP The only way to do great work is to love what you do. Quantum Computing Logging Happiness is not something ready made. It comes from your own actions. Algorithm Load Testing Serverless UX Optimization
 Cloud Functions Containerization Parallel Processing Message Queue Happiness is not something ready made. It comes from your own actions. IoT API Gateway DNS Routing
 CI/CD Automation Multi-threading Virtual Machines Success doesn’t just find you. You have to go out and get it. API Gateway Stay hungry, stay foolish. Big Data Optimization Work hard in silence, let your success be your noise.
+Lambda Functions Event Sourcing Machine Learning Message Queue API Gateway Scalability Data Pipeline

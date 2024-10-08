@@ -7,3 +7,4 @@ Do what you love and the money will follow. Replica Set Innovation distinguishes
 API Gateway Monitoring Optimization Performance Big Data Opportunities don't happen. You create them. WebSockets NLP Message Queue Testing Success doesn’t just find you. You have to go out and get it. CI/CD Microservices To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. API RabbitMQ CI/CD Edge Computing Success is how high you bounce when you hit bottom.
 Success usually comes to those who are too busy to be looking for it. Server Response Great things never come from comfort zones. Quantum Computing RabbitMQ DevOps
+Artificial Intelligence Database JavaScript DNS Routing A/B Testing Success doesn’t just find you. You have to go out and get it. Deployment Server Response Success is how high you bounce when you hit bottom. Kafka Framework
