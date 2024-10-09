@@ -11,3 +11,4 @@ Logging I find that the harder I work, the more luck I seem to have. Cache Inval
 DevOps API Serverless Agile Code Review Kubernetes Stay hungry, stay foolish. Parallel Processing Act as if what you do makes a difference. It does. API Gateway Message Queue
 Event Sourcing Kubernetes Firewalls DevOps Zero Downtime Deployment
 Predictive Analytics Docker Big Data Deployment DNS Routing Server Response
+API Gateway CI/CD JWT To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Event-driven Architecture Latency Optimization UX Optimization Serverless Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Quantum Computing

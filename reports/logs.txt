@@ -4,3 +4,4 @@ DNS Routing Container Orchestration Event Sourcing JWT Zero Downtime Deployment 
 GraphQL Deployment A/B Testing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Event Sourcing Performance Kubernetes Zero Downtime Deployment The only way to do great work is to love what you do. Distributed Systems Version Control DNS Routing Scalability IoT
 A/B Testing Backend Server Response Predictive Analytics Monitoring Distributed Systems Artificial Intelligence Serverless Version Control Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower.
 Event Sourcing Machine Learning Docker Performance Cloud Functions
+Success is how high you bounce when you hit bottom. Replica Set Testing WebSockets Firewalls Agile Python Distributed Systems Content Delivery Network Frontend
