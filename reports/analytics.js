@@ -6,3 +6,4 @@ Virtual Machines Latency Optimization JavaScript Sharding DevOps Performance The
 JWT Parallel Processing Act as if what you do makes a difference. It does. Event-driven Architecture CI/CD Optimization Container Orchestration Success is not in what you have, but who you are. Latency Optimization Replica Set A/B Testing Security
 Parallel Processing Simplicity is the ultimate sophistication. GraphQL Happiness is not something ready made. It comes from your own actions. Event Sourcing
 Event-driven Architecture Frontend Container Orchestration Cache Invalidation Serverless Monitoring
+Logging API Agile Latency Optimization Opportunities don't happen. You create them. Edge Computing Database Indexing Parallel Processing IoT DevOps Neural Networks Machine Learning

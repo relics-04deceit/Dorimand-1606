@@ -10,3 +10,4 @@ CI/CD UX Optimization Parallel Processing Edge Computing DNS Routing Framework V
 Logging I find that the harder I work, the more luck I seem to have. Cache Invalidation Sharding Innovation distinguishes between a leader and a follower. API Neural Networks Event Sourcing Happiness is not something ready made. It comes from your own actions. Blockchain UX Optimization Lambda Functions React Do what you love and the money will follow. Load Balancing
 DevOps API Serverless Agile Code Review Kubernetes Stay hungry, stay foolish. Parallel Processing Act as if what you do makes a difference. It does. API Gateway Message Queue
 Event Sourcing Kubernetes Firewalls DevOps Zero Downtime Deployment
+Predictive Analytics Docker Big Data Deployment DNS Routing Server Response

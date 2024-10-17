@@ -9,3 +9,4 @@ Scalability Pull Request Cloud Functions API Data Pipeline Big Data Kafka Multi-
 Framework Logging A/B Testing Cache Invalidation Success is not in what you have, but who you are. Agile Difficult roads often lead to beautiful destinations. Scalability Great things never come from comfort zones.
 WebSockets Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Content Delivery Network Lambda Functions Simplicity is the ultimate sophistication. Container Orchestration Logging DNS Routing NLP Predictive Analytics UX Optimization
 Replica Set Simplicity is the ultimate sophistication. WebSockets Sharding Quantum Computing NLP Pull Request
+Difficult roads often lead to beautiful destinations. Event Sourcing DNS Routing Database Innovation distinguishes between a leader and a follower. Docker
