@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. Kubernetes Testing IoT Dev
 Data Pipeline Parallel Processing Event Sourcing API Cloud DNS Routing Server Response Load Testing Zero Downtime Deployment Cloud Functions
 Algorithm Simplicity is the ultimate sophistication. Database Indexing JWT Multi-threading UX Optimization Data Pipeline Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. IoT Latency Optimization Serverless Kubernetes API
 Data Pipeline DNS Routing Security Distributed Systems Algorithm GraphQL A/B Testing
+OAuth If you can dream it, you can do it. Distributed Systems I find that the harder I work, the more luck I seem to have. JWT Sharding Microservices Database Dream big and dare to fail.

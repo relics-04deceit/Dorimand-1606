@@ -7,3 +7,4 @@ JWT Parallel Processing Act as if what you do makes a difference. It does. Event
 Parallel Processing Simplicity is the ultimate sophistication. GraphQL Happiness is not something ready made. It comes from your own actions. Event Sourcing
 Event-driven Architecture Frontend Container Orchestration Cache Invalidation Serverless Monitoring
 Logging API Agile Latency Optimization Opportunities don't happen. You create them. Edge Computing Database Indexing Parallel Processing IoT DevOps Neural Networks Machine Learning
+A/B Testing Containerization Docker Cache Invalidation Dream big and dare to fail. React Load Testing Deployment
