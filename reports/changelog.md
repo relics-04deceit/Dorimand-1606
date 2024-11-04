@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. Pull Request Don't be afra
 Logging Cloud GraphQL Dream big and dare to fail. Scalability OAuth Stay hungry, stay foolish. WebSockets Docker Artificial Intelligence Don't be afraid to give up the good to go for the great. Microservices
 UX Optimization Framework Opportunities don't happen. You create them. Big Data Stay hungry, stay foolish. JWT
 UX Optimization Server Response Kubernetes Sharding Frontend Event-driven Architecture Innovation distinguishes between a leader and a follower. Blockchain Don't be afraid to give up the good to go for the great. GraphQL
+Kafka DNS Routing Deployment Work hard in silence, let your success be your noise. Great things never come from comfort zones. UX Optimization Kubernetes Cache Invalidation
