@@ -7,3 +7,4 @@ Automation UX Optimization Latency Optimization Frontend Cloud Great things neve
 JWT Database Kafka Logging Security
 Difficult roads often lead to beautiful destinations. GraphQL WebSockets OAuth Cloud Performance A/B Testing Work hard in silence, let your success be your noise. DNS Routing Sharding Content Delivery Network JWT
 Neural Networks Happiness is not something ready made. It comes from your own actions. JavaScript Simplicity is the ultimate sophistication. Distributed Systems Algorithm Kubernetes Testing The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Do what you love and the money will follow. Python Event Sourcing CI/CD Microservices
+WebSockets Docker NLP The only way to do great work is to love what you do. Quantum Computing Logging Happiness is not something ready made. It comes from your own actions. Algorithm Load Testing Serverless UX Optimization
