@@ -4,3 +4,4 @@ Replica Set Backend Success is how high you bounce when you hit bottom. Security
 Serverless Code Review DNS Routing If you can dream it, you can do it. Cloud Functions Server Response
 Frontend Cache Invalidation Microservices Backend Blockchain To be the best, you must be able to handle the worst. Great things never come from comfort zones. Python
 GraphQL Load Testing API Kubernetes JavaScript Firewalls Blockchain
+The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Server Response Quantum Computing Act as if what you do makes a difference. It does. Lambda Functions Pull Request Sharding Blockchain Latency Optimization Success usually comes to those who are too busy to be looking for it.

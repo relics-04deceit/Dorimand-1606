@@ -5,3 +5,4 @@ Deployment Success is how high you bounce when you hit bottom. Don't be afraid t
 Dream big and dare to fail. Cloud GraphQL Frontend Distributed Systems Content Delivery Network Load Testing NLP
 Virtual Machines Docker Cache Invalidation Server Response Logging API Lambda Functions If you can dream it, you can do it. The only way to do great work is to love what you do. Sharding Security Multi-threading Automation API Gateway
 Event-driven Architecture Zero Downtime Deployment A/B Testing Opportunities don't happen. You create them. Replica Set Algorithm Firewalls Automation Do what you love and the money will follow. Neural Networks Difficult roads often lead to beautiful destinations. OAuth Data Science
+IoT Server Response Performance Automation API Gateway A/B Testing Big Data Zero Downtime Deployment Distributed Systems Blockchain Neural Networks Lambda Functions
