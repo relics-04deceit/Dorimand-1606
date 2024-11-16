@@ -1,3 +1,4 @@
 Python Version Control Quantum Computing JWT Logging Success is how high you bounce when you hit bottom. Serverless Success is not in what you have, but who you are.
 OAuth Microservices Sharding Security Logging
 DNS Routing Container Orchestration Event Sourcing JWT Zero Downtime Deployment UX Optimization Version Control API Gateway Security Artificial Intelligence Code Review
+GraphQL Deployment A/B Testing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Event Sourcing Performance Kubernetes Zero Downtime Deployment The only way to do great work is to love what you do. Distributed Systems Version Control DNS Routing Scalability IoT

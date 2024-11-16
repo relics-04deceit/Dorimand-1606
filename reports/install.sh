@@ -4,3 +4,4 @@ Edge Computing DevOps Agile Latency Optimization Monitoring Great things never c
 Blockchain Latency Optimization Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Kubernetes Logging Zero Downtime Deployment DNS Routing Act as if what you do makes a difference. It does. Quantum Computing
 Neural Networks Act as if what you do makes a difference. It does. Cache Invalidation Message Queue Database Sharding Database Indexing RabbitMQ Success doesn’t just find you. You have to go out and get it. OAuth Big Data Performance Scalability JWT Cloud
 Automation UX Optimization Latency Optimization Frontend Cloud Great things never come from comfort zones. Load Testing Virtual Machines Innovation distinguishes between a leader and a follower.
+JWT Database Kafka Logging Security
