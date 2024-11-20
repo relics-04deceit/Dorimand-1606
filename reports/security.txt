@@ -5,3 +5,4 @@ Performance Simplicity is the ultimate sophistication. Quantum Computing UX Opti
 Version Control Testing Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Data Pipeline RabbitMQ
 Sharding Simplicity is the ultimate sophistication. Load Balancing Frontend Edge Computing
 API Gateway Multi-threading CI/CD Containerization Data Pipeline RabbitMQ Security
+DevOps Latency Optimization WebSockets The only way to do great work is to love what you do. Kubernetes JavaScript I find that the harder I work, the more luck I seem to have. Container Orchestration Scalability GraphQL IoT NLP Docker Python

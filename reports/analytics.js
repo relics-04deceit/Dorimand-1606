@@ -4,3 +4,4 @@ API Version Control Success is how high you bounce when you hit bottom. Containe
 Simplicity is the ultimate sophistication. Load Balancing Cloud Event-driven Architecture Framework Python Serverless WebSockets Database Pull Request Act as if what you do makes a difference. It does. Agile Firewalls Virtual Machines The only way to do great work is to love what you do.
 Virtual Machines Latency Optimization JavaScript Sharding DevOps Performance The only way to do great work is to love what you do.
 JWT Parallel Processing Act as if what you do makes a difference. It does. Event-driven Architecture CI/CD Optimization Container Orchestration Success is not in what you have, but who you are. Latency Optimization Replica Set A/B Testing Security
+Parallel Processing Simplicity is the ultimate sophistication. GraphQL Happiness is not something ready made. It comes from your own actions. Event Sourcing
