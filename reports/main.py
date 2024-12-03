@@ -3,3 +3,4 @@ Success is not in what you have, but who you are. Security Neural Networks UX Op
 Server Response Great things never come from comfort zones. Zero Downtime Deployment Blockchain IoT Container Orchestration
 Algorithm Database Parallel Processing IoT Version Control Work hard in silence, let your success be your noise.
 Microservices RabbitMQ React Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Neural Networks Database Python Cache Invalidation Code Review Version Control
+Content Delivery Network Lambda Functions Load Balancing JavaScript NLP I find that the harder I work, the more luck I seem to have. Data Pipeline Success usually comes to those who are too busy to be looking for it. Cache Invalidation Neural Networks Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Container Orchestration Great things never come from comfort zones. A/B Testing
