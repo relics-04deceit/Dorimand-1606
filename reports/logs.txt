@@ -1,2 +1,3 @@
 Python Version Control Quantum Computing JWT Logging Success is how high you bounce when you hit bottom. Serverless Success is not in what you have, but who you are.
 OAuth Microservices Sharding Security Logging
+DNS Routing Container Orchestration Event Sourcing JWT Zero Downtime Deployment UX Optimization Version Control API Gateway Security Artificial Intelligence Code Review
