@@ -4,3 +4,4 @@ Security Data Science Container Orchestration Act as if what you do makes a diff
 Don't be afraid to give up the good to go for the great. API Load Balancing Logging Happiness is not something ready made. It comes from your own actions. OAuth
 Frontend Docker Content Delivery Network Difficult roads often lead to beautiful destinations. Quantum Computing JWT I find that the harder I work, the more luck I seem to have. A/B Testing Do what you love and the money will follow.
 React DevOps Quantum Computing Success is how high you bounce when you hit bottom. Logging Load Balancing A/B Testing Latency Optimization Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Kafka API Gateway Framework Database Performance
+Opportunities don't happen. You create them. Stay hungry, stay foolish. API Latency Optimization Pull Request Don't be afraid to give up the good to go for the great. Virtual Machines
