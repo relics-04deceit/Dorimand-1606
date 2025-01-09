@@ -1,2 +1,3 @@
 RabbitMQ Do what you love and the money will follow. Deployment Quantum Computing Zero Downtime Deployment Data Science
 Code Review Parallel Processing Lambda Functions GraphQL Act as if what you do makes a difference. It does. Scalability Data Pipeline React DNS Routing Cloud Functions Event-driven Architecture The only way to do great work is to love what you do. Load Testing
+IoT Success is not in what you have, but who you are. API Gateway Success doesn’t just find you. You have to go out and get it. Cloud Edge Computing Data Pipeline Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Logging Framework Security
