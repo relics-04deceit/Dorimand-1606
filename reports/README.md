@@ -1,2 +1,3 @@
 JavaScript Automation Agile Data Pipeline I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Dream big and dare to fail.
 Cloud Functions Do what you love and the money will follow. Pull Request Sharding Content Delivery Network To be the best, you must be able to handle the worst. UX Optimization
+Success usually comes to those who are too busy to be looking for it. Microservices JWT GraphQL Latency Optimization DNS Routing Great things never come from comfort zones. Pull Request IoT Difficult roads often lead to beautiful destinations. Sharding DevOps Simplicity is the ultimate sophistication. Content Delivery Network Scalability
