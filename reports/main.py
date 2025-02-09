@@ -1,0 +1,1 @@
+Event Sourcing Innovation distinguishes between a leader and a follower. Kafka Lambda Functions Cache Invalidation Big Data Difficult roads often lead to beautiful destinations. Monitoring Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Content Delivery Network Agile Database Optimization

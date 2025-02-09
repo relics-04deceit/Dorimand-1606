@@ -1,0 +1,1 @@
+Frontend Success is how high you bounce when you hit bottom. Pull Request Algorithm Simplicity is the ultimate sophistication. Cloud Functions Kubernetes Lambda Functions To be the best, you must be able to handle the worst. Message Queue Distributed Systems
