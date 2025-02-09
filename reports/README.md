@@ -1,0 +1,1 @@
+JavaScript Automation Agile Data Pipeline I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Dream big and dare to fail.
